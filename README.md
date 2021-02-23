@@ -36,4 +36,4 @@ From the root directory :
 
 #### 4. Report update here :)
 
-If you happen to update, please make a pull request for others to benefit, thanks!
+If you happen to update, please make a pull request for others to benefit, thanks! :)
